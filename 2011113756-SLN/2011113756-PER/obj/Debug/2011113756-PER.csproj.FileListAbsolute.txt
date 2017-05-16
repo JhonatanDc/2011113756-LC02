@@ -1,0 +1,14 @@
+C:\Users\JHONATAN\Documents\Visual Studio 2015\Projects\2011113756-LC2\2011113756-SLN\2011113756-PER\obj\Debug\2011113756-PER.csprojResolveAssemblyReference.cache
+C:\Users\JHONATAN\Documents\Visual Studio 2015\Projects\2011113756-LC2\2011113756-SLN\2011113756-PER\bin\Debug\2011113756-PER.dll.config
+C:\Users\JHONATAN\Documents\Visual Studio 2015\Projects\2011113756-LC2\2011113756-SLN\2011113756-PER\bin\Debug\2011113756-PER.dll
+C:\Users\JHONATAN\Documents\Visual Studio 2015\Projects\2011113756-LC2\2011113756-SLN\2011113756-PER\bin\Debug\2011113756-PER.pdb
+C:\Users\JHONATAN\Documents\Visual Studio 2015\Projects\2011113756-LC2\2011113756-SLN\2011113756-PER\bin\Debug\2011113756-ENT.dll
+C:\Users\JHONATAN\Documents\Visual Studio 2015\Projects\2011113756-LC2\2011113756-SLN\2011113756-PER\bin\Debug\EntityFramework.dll
+C:\Users\JHONATAN\Documents\Visual Studio 2015\Projects\2011113756-LC2\2011113756-SLN\2011113756-PER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JHONATAN\Documents\Visual Studio 2015\Projects\2011113756-LC2\2011113756-SLN\2011113756-PER\bin\Debug\2011113756-ENT.pdb
+C:\Users\JHONATAN\Documents\Visual Studio 2015\Projects\2011113756-LC2\2011113756-SLN\2011113756-PER\bin\Debug\EntityFramework.xml
+C:\Users\JHONATAN\Documents\Visual Studio 2015\Projects\2011113756-LC2\2011113756-SLN\2011113756-PER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JHONATAN\Documents\Visual Studio 2015\Projects\2011113756-LC2\2011113756-SLN\2011113756-PER\obj\Debug\2011113756-PER.dll
+C:\Users\JHONATAN\Documents\Visual Studio 2015\Projects\2011113756-LC2\2011113756-SLN\2011113756-PER\obj\Debug\2011113756-PER.pdb
+C:\Users\JHONATAN\Documents\Visual Studio 2015\Projects\2011113756-LC2\2011113756-SLN\2011113756-PER\obj\Debug\_2011113756_PER.Migrations.InitialModel.resources
+C:\Users\JHONATAN\Documents\Visual Studio 2015\Projects\2011113756-LC2\2011113756-SLN\2011113756-PER\obj\Debug\2011113756-PER.csproj.GenerateResource.Cache
